@@ -1,5 +1,7 @@
 # Counter-Strike 2 Map Location Image Dataset (August 2024)
 
+The dataset is too large for GitHub (209GB) and has to be downloaded from [archive.org](https://archive.org/details/cs2mapLocationDataset)
+
 ## Overview
 
 This dataset contains 1.7 million images captured from 17 different Counter-Strike 2 maps (version: August 2024). Each map includes 100,000 images, making this a comprehensive collection for various uses, such as machine learning, computer vision, and more.
